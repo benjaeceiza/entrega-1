@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "title": "Notebook Lenovo",
+        "description": "Notebook Lenovo Ideapad Slim 3 15,6 Ryzen 5 8gb 512ssd W11 Color Azul",
+        "code": 1234,
+        "price": 943799,
+        "status": true,
+        "stock": 5,
+        "category": "Tecnology",
+        "thumbnails": [
+            "https://i.postimg.cc/JzTj0WzY/compu.webp",
+            "https://i.postimg.cc/BZD5gymt/compu-1.webp"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "PlayStation 5",
+        "description": "Consola PlayStation 5.1 controlador inalámbrico.2 Pies de apoyo horizontales.Cable HDMI.Cable de alimentación.Cable USB-C.Manual de usuario",
+        "code": 1111,
+        "price": 1435642,
+        "status": true,
+        "stock": 3,
+        "category": "Gaming",
+        "thumbnails": [
+            "https://i.postimg.cc/d1CC5kmg/play.webp",
+            "https://i.postimg.cc/0NbDJH6k/play-1.webp"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Stanley Termo",
+        "description": "este termo Stanley fue pensado para acompañarte a través de los años, ya que durabilidad y estilo son las palabras que definen a la marca.",
+        "code": 2222,
+        "price": 115999,
+        "status": true,
+        "stock": 8,
+        "category": "thermos",
+        "thumbnails": [
+            "https://i.postimg.cc/WzPkCN5z/termo-stanley.webp",
+            "https://i.postimg.cc/7Ld71M7g/termo-stanley-1.webp"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Teclado Gamer Razer",
+        "description": "Teclado Gamer Razer Ornata V3 X Ingles Semi Mecánico Rgb Lp* Color del teclado Negro Idioma Inglés US",
+        "code": 3333,
+        "price": 60799,
+        "status": true,
+        "stock": 2,
+        "category": "Gaming",
+        "thumbnails": [
+            "https://i.postimg.cc/8zkhTCNr/teclado.webp"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Pelota futsal",
+        "description": "Pelota Fútbol No4 Profesional Futsal Medio Pique Cancha De 5",
+        "code": 4444,
+        "price": 35150,
+        "status": true,
+        "stock": 8,
+        "category": "Sports",
+        "thumbnails": [
+            "https://i.postimg.cc/vHsrSzKh/pelota.webp",
+            "https://i.postimg.cc/PrQWGDsj/peltoa-1.webp"
+        ]
+    }
+]
