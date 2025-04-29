@@ -67,19 +67,5 @@
             "https://i.postimg.cc/vHsrSzKh/pelota.webp",
             "https://i.postimg.cc/PrQWGDsj/peltoa-1.webp"
         ]
-    },
-    {
-        "id": 6,
-        "title": "caca",
-        "description": "2",
-        "code": 4444,
-        "price": 35150,
-        "status": true,
-        "stock": 8,
-        "category": "Sports",
-        "thumbnails": [
-            "https://i.postimg.cc/vHsrSzKh/pelota.webp",
-            "https://i.postimg.cc/PrQWGDsj/peltoa-1.webp"
-        ]
     }
 ]
